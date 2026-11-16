@@ -8,7 +8,7 @@ imported directly (SKILL.md at the repository root).
 
 ## Layout
 
-- `SKILL.md`, `analyze.py`, `config.yaml`, `exports.py` — the skill files, byte-identical to upstream
+- `SKILL.md`, `analyze.py`, `config.yaml`, `exports.py` — the original skill files (see the trailing-newline packaging note below)
 
 ## License
 
