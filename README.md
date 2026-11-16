@@ -15,3 +15,10 @@ imported directly (SKILL.md at the repository root).
 The upstream repository contains **no LICENSE file** (checked at the repo root
 and in the `video-analysis/` folder), so no license is included here and none
 was invented. Usage terms are whatever the upstream author grants.
+
+## Packaging note
+
+The published SKILL.md has one extra trailing newline from GitHub's text editor.
+All other skill-file bytes are unchanged. This is the original Starchild skill;
+its host-tool references and optional transcription dependencies are unchanged.
+Importing it does not install those dependencies or validate runtime compatibility.
